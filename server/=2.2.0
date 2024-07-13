@@ -1,0 +1,15 @@
+Requirement already satisfied: Flask==2.2.2 in /home/debbie/.local/share/virtualenvs/python-phase-4-code-challenge-pizza-0eQC5JHT/lib/python3.10/site-packages (2.2.2)
+Requirement already satisfied: Werkzeug in /home/debbie/.local/share/virtualenvs/python-phase-4-code-challenge-pizza-0eQC5JHT/lib/python3.10/site-packages (2.2.0)
+Collecting Werkzeug
+  Using cached werkzeug-3.0.3-py3-none-any.whl.metadata (3.7 kB)
+Requirement already satisfied: Jinja2>=3.0 in /home/debbie/.local/share/virtualenvs/python-phase-4-code-challenge-pizza-0eQC5JHT/lib/python3.10/site-packages (from Flask==2.2.2) (3.1.4)
+Requirement already satisfied: itsdangerous>=2.0 in /home/debbie/.local/share/virtualenvs/python-phase-4-code-challenge-pizza-0eQC5JHT/lib/python3.10/site-packages (from Flask==2.2.2) (2.2.0)
+Requirement already satisfied: click>=8.0 in /home/debbie/.local/share/virtualenvs/python-phase-4-code-challenge-pizza-0eQC5JHT/lib/python3.10/site-packages (from Flask==2.2.2) (8.1.7)
+Requirement already satisfied: MarkupSafe>=2.1.1 in /home/debbie/.local/share/virtualenvs/python-phase-4-code-challenge-pizza-0eQC5JHT/lib/python3.10/site-packages (from Werkzeug) (2.1.5)
+Using cached werkzeug-3.0.3-py3-none-any.whl (227 kB)
+Installing collected packages: Werkzeug
+  Attempting uninstall: Werkzeug
+    Found existing installation: Werkzeug 2.2.0
+    Uninstalling Werkzeug-2.2.0:
+      Successfully uninstalled Werkzeug-2.2.0
+Successfully installed Werkzeug-3.0.3
